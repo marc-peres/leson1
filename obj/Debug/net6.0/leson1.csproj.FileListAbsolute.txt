@@ -1,0 +1,15 @@
+C:\Users\peres\OneDrive\Рабочий стол\GB\csharp\1\leson1\bin\Debug\net6.0\leson1.exe
+C:\Users\peres\OneDrive\Рабочий стол\GB\csharp\1\leson1\bin\Debug\net6.0\leson1.deps.json
+C:\Users\peres\OneDrive\Рабочий стол\GB\csharp\1\leson1\bin\Debug\net6.0\leson1.runtimeconfig.json
+C:\Users\peres\OneDrive\Рабочий стол\GB\csharp\1\leson1\bin\Debug\net6.0\leson1.dll
+C:\Users\peres\OneDrive\Рабочий стол\GB\csharp\1\leson1\bin\Debug\net6.0\leson1.pdb
+C:\Users\peres\OneDrive\Рабочий стол\GB\csharp\1\leson1\obj\Debug\net6.0\leson1.csproj.AssemblyReference.cache
+C:\Users\peres\OneDrive\Рабочий стол\GB\csharp\1\leson1\obj\Debug\net6.0\leson1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peres\OneDrive\Рабочий стол\GB\csharp\1\leson1\obj\Debug\net6.0\leson1.AssemblyInfoInputs.cache
+C:\Users\peres\OneDrive\Рабочий стол\GB\csharp\1\leson1\obj\Debug\net6.0\leson1.AssemblyInfo.cs
+C:\Users\peres\OneDrive\Рабочий стол\GB\csharp\1\leson1\obj\Debug\net6.0\leson1.csproj.CoreCompileInputs.cache
+C:\Users\peres\OneDrive\Рабочий стол\GB\csharp\1\leson1\obj\Debug\net6.0\leson1.dll
+C:\Users\peres\OneDrive\Рабочий стол\GB\csharp\1\leson1\obj\Debug\net6.0\refint\leson1.dll
+C:\Users\peres\OneDrive\Рабочий стол\GB\csharp\1\leson1\obj\Debug\net6.0\leson1.pdb
+C:\Users\peres\OneDrive\Рабочий стол\GB\csharp\1\leson1\obj\Debug\net6.0\leson1.genruntimeconfig.cache
+C:\Users\peres\OneDrive\Рабочий стол\GB\csharp\1\leson1\obj\Debug\net6.0\ref\leson1.dll
