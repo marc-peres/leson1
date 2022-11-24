@@ -1,60 +1,59 @@
 ﻿// See https://aka.ms/new-console-template for more information
+// Случайное число [10, 99];
+//?..///////////////////////////
+bool isParsed = int.TryParse(Console.ReadLine(), out int number);
+// Random random = new Random();
+// int number = random.Next(10, 100);
+// int firstNumber = number / 10;
+// int lastNumber = number % 10;
 
-// Задача 2: Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее.
+// Console.WriteLine(number);
 
-// int a = int.Parse(Console.ReadLine());
-// int b = int.Parse(Console.ReadLine());
-// if (a > b)
-// {
-//     Console.WriteLine(a + " - больше");
-// }
-// else if (a < b)
-// {
-//     Console.WriteLine(b + " - больше");
-// }
-// else
-// {
-//     Console.WriteLine("Числа ровны");
-// }
+//!..///////////////////////////
+// Random random = new Random();
+// int num = random.Next(100, 1000);
 
-// Задача 4: Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
-
-// int a = int.Parse(Console.ReadLine());
-// int b = int.Parse(Console.ReadLine());
-// int c = int.Parse(Console.ReadLine());
-// int max = a;
-// if (b > max)
+// Console.WriteLine(num);
+// int thirdNum = num % 10;
+// int firstNum = num / 100;
+// Console.WriteLine($"{firstNum}{thirdNum}");
+//?..///////////////////////////
+// int firstNum = int.Parse(Console.ReadLine());
+// int secondNum = int.Parse(Console.ReadLine());
+// int result = firstNum % secondNum;
+// if (result == 0)
 // {
-//     max = b;
-// }
-// if (c > max)
-// {
-//     max = c;
-// }
-// Console.WriteLine(max + " - максимальное число");
-
-// Задача 6: Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
-
-// int a = int.Parse(Console.ReadLine());
-// if (a % 2 == 0)
-// {
-//     Console.WriteLine(a + " - четное");
+//     Console.WriteLine("Кратное");
 // }
 // else
 // {
-//     Console.WriteLine(a + " - нечетное");
+//     Console.WriteLine(result);
 // }
+//?..///////////////////////////
+// 3. Напишите программу, которая принимает на вход число и проверяет, кратно ли оно одновременно 7 и 23.
+// 14 -> нет 46 -> нет 161 -> да
 
-// Задача 8: Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
+// int num = int.Parse(Console.ReadLine());
 
-// int a = int.Parse(Console.ReadLine());
-// int i = 1;
-
-// while (i < a) // Не включая N
+// if (num % 7 == 0 & num % 23 == 0)
 // {
-//     if (i % 2 == 0)
-//     {
-//         Console.WriteLine(i);
-//     }
-//     i++;
+//     Console.WriteLine("Да");
+// }
+// else
+// {
+//     Console.WriteLine("Нет");
+// }
+//?..///////////////////////////
+// 4 Напишите программу, которая принимает на вход два числа и проверяет, является ли одно число квадратом другого.
+// 5, 25 -> да -4, 16 -> да 25, 5 -> да 8,9 -> нет
+
+// int firstNum = int.Parse(Console.ReadLine());
+// int secondNum = int.Parse(Console.ReadLine());
+// if (firstNum * firstNum == secondNum | secondNum * secondNum == firstNum)
+// {
+//     Console.WriteLine("Да");
+// }
+// else
+// {
+//     Console.WriteLine("Нет");
 // }
